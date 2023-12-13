@@ -16,11 +16,9 @@ h3 {
 tr th {
     padding: 15px;
     color: rgba(151, 151, 209, 0.721);
-
 }
 
 tr:nth-child(even) {
-
     background-color: rgba(41, 41, 174, 0.721);
 }
 
@@ -45,7 +43,7 @@ a {
 tr:hover {
     background-color: rgba(164, 181, 97, 0.721);
 }
- 
-tr:nth-child(n) :hover{
+
+tr:nth-child(n) :hover {
     background-color: yellow;
 }
